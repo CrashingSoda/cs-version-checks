@@ -1,0 +1,5 @@
+{
+    "version": "1.0.0",
+    "changelog": "Added Version Checker",
+    "download": "Go to you cfx Keymaster to update this resource"
+}
