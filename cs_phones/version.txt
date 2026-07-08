@@ -1,5 +1,1 @@
-{
-    "version": "1.0.0",
-    "changelog": "Inital Drop and Added Version Checker",
-    "download": "Go to you cfx Keymaster to update this resource"
-}
+1.0.0
